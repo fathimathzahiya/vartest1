@@ -4,4 +4,4 @@ function stringmethod(str){
   let has=upper.includes("JS");
   return{upper,has};
 }
-console.log(stringmethod("  js is simple"));
+console.log(stringmethod("  js is simple "));
